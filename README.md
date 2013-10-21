@@ -25,6 +25,6 @@ SAT Prep
 ==
 - build an sat prep game
 
-grammer NLP
+grammar NLP
 ==
-study grammer with programming.. try a write simple NLP program
+study grammar with programming.. try a write simple NLP program

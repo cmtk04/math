@@ -19,3 +19,7 @@ columbia neuroscience
 SAT Prep
 ==
 - build an sat prep game
+
+grammer NLP
+==
+study grammer with programming.. try a write simple NLP program

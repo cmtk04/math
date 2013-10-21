@@ -1,7 +1,7 @@
 math
 ====
-
-demonstration of knowledge in clojure
+- demonstration of knowledge in clojure
+- demonstration of concepts required for biostats/biomath, and physics
 
 goals:
 ====
@@ -14,6 +14,12 @@ columbia neuroscience
 - http://www.columbia.edu/cu/biology/pages/undergrad/cur/majors/gsneuro.html
 - http://undergrad.admissions.columbia.edu/apply/first-year
 - http://sat.collegeboard.org/register/sat-subject-test-dates
+
+
+columbia robotics
+==
+http://me.columbia.edu/
+
 
 SAT Prep
 ==

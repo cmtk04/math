@@ -8,7 +8,6 @@ goals:
 - project euler
 - stats
 - machine learning
-- logic programming
 
 columbia neuroscience
 ==
